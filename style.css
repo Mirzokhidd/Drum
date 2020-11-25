@@ -1,0 +1,104 @@
+img {
+    position: fixed;
+    left: 300px;
+    top: 100px;
+}
+
+#S {
+    border-radius: 25%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    position: fixed;
+    left: 1020px;
+    top: 230px;
+}
+
+#D {
+    border-radius: 25%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 50px;
+    position: fixed;
+    left: 750px;
+    top: 430px;
+}
+
+#F {
+    border-radius: 25%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    position: fixed;
+    left: 900px;
+    top: 130px;
+}
+
+#H {
+    border-radius: 25%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    position: fixed;
+    left: 500px;
+    top: 130px;
+}
+
+#J {
+    border-radius: 25%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    position: fixed;
+    left: 900px;
+    top: 330px;
+}
+
+#K {
+    border-radius: 25%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    position: fixed;
+    left: 800px;
+    top: 200px;
+}
+
+#K2 {
+    border-radius: 25%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    position: fixed;
+    left: 650px;
+    top: 200px;
+}
+
+#A {
+    border-radius: 25%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    position: fixed;
+    left: 500px;
+    top: 10px;
+}
+
+#G {
+    border-radius: 25%;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    position: fixed;
+    left: 550px;
+    top: 300px;
+}
